@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TideDataReader", ".", "{42F8DDF3-9690-4D8C-AC3B-3B2A6D563E8D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58301"
+		Debug.AspNetCompiler.PhysicalPath = "..\TideDataReader\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58301\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58301"
+		Release.AspNetCompiler.PhysicalPath = "..\TideDataReader\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58301\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58301"
+		SlnRelativePath = "..\TideDataReader\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F8DDF3-9690-4D8C-AC3B-3B2A6D563E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F8DDF3-9690-4D8C-AC3B-3B2A6D563E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C914ABA-BD8D-4744-89D2-EBF0BD64B799}
+	EndGlobalSection
+EndGlobal
